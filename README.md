@@ -1,4 +1,5 @@
 The article (TUO sh et al. (2019) MP-HS-DHSI: Multi-group Harmony Search Algorithm for Detecting High-Order SNP Interactions) has been submitted to Bioinformatics, and its current status is a minor revision.
+======================================================================
 
 the flowchart as :
 ![Flowchart of MP-HS-DHSI](https://github.com/shouhengtuo/MP-HS-DHSI/blob/master/outline.jpg)
